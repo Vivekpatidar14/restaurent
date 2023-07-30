@@ -1,0 +1,50 @@
+{    
+  "login":[{
+    "email":"herevivekpatidar@gmail.com",
+    "password":"vivek@123"
+  }],
+  "restaurent": [
+    {
+      "name": "ikeals",
+      "addresss": "asd",
+      "email": "asd",
+      "rating": "sd",
+      "id": 5
+    },
+    {
+      "name": "kfc",
+      "addresss": "noida",
+      "email": "kfa@3qjaksd",
+      "rating": "4",
+      "id": 6
+    },
+    {
+      "name": "burgerfarm",
+      "addresss": "wesd",
+      "email": "burgerfarm@gmail.com",
+      "rating": "3.4",
+      "id": 7
+    },
+    {
+      "name": "mcdowleds",
+      "addresss": "mumbai",
+      "email": "ma@jeafdjh",
+      "rating": "sdf",
+      "id": 8
+    },
+    {
+      "name": "mcdowleds",
+      "addresss": "allahabad",
+      "email": "mcdowelles@gmail.com",
+      "rating": "3.4",
+      "id": 9
+    },
+    {
+      "name": "macdowellones",
+      "addresss": "mumbai",
+      "email": "macdowellens@gmail.com",
+      "rating": "4",
+      "id": 10
+    }
+  ]
+}
